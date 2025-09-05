@@ -10,7 +10,8 @@ sudo pacman -S --noconfirm rofi \
                            tmux \
                            git \
                            neovim \
-                           picom
+                           picom \
+                           hsetroot
 
 sudo systemctl enable sddm.service --force
 
